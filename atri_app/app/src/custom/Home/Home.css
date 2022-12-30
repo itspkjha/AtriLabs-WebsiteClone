@@ -1,0 +1,33 @@
+.p-Home.TextBox19, .p-Home.TextBox100{
+    display: inline;
+    padding-right: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -2px;
+}
+.p-Home.TextBox18, .p-Home.TextBox20{
+    letter-spacing: -2px;
+}
+
+.p-Home.Div4, .p-Home.Div46{
+    background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+
+}
+
+.p-Home.TextBox83,.p-Home.TextBox26, .p-Home.TextBox49, .p-Home.TextBox89, .p-Home.TextBox113 , .p-Home.TextBox116, .p-Home.TextBox121, .p-Home.TextBox124, .p-Home.TextBox125{
+    display: inline;
+    padding-right: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 4px;
+}
+
+.p-Home.Flex127{
+    transform: translateY(-10%);
+}
+
+    
